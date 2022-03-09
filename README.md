@@ -45,30 +45,21 @@ Acesse clicando <a href="https://bate-papo-wpp.herokuapp.com/">aqui</a>.
 # Pré-requisitos
 
 Será necessário ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). Também é 
-aconselhável ter um editor para trabalhar com o código, como o [VSCode](https://code.visualstudio.com/).
+[Git](https://git-scm.com), [Docker](https://docs.docker.com/engine/install/) e [Docker-Compose](https://docs.docker.com/compose/install/). Também é aconselhável ter um editor para trabalhar com o código, como o [VSCode](https://code.visualstudio.com/).
 
-```bash
-
-# Versão Node utilizada nesta aplicação: v16.14 (LTS)
-
-```
 
 # Rodando a aplicação
 
 ```bash
 
 # Clone este repositório
-$ git clone <https://github.com/matheuskeidygomes/Chat-bate-papo.git>
+$ git clone <https://github.com/matheuskeidygomes/docker-Chat-bate-papo.git>
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd Chat-bate-papo
 
-# Instale as dependências
-$ npm install
-
-# Execute a aplicação 
-$ npm start
+# Execute a aplicação
+$ docker-compose up 
 
 # O servidor iniciará na porta:3000 - acesse <http://localhost:3000>
 
@@ -80,6 +71,7 @@ $ npm start
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
   
 
 # Autor
