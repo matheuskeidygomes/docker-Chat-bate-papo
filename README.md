@@ -4,7 +4,7 @@
 
 ![Node](https://img.shields.io/badge/Node-v16.14%20(LTS)-brightgreen)
 ![Docker](https://img.shields.io/badge/Docker-v20.10.12-informational)
-![Docker-Compose](https://img.shields.io/badge/Docker--compose-v1.19.2-blue)
+![Docker-Compose](https://img.shields.io/badge/Docker--compose-v1.29.2-blue)
 ![Npm](https://img.shields.io/badge/Npm-v8.3.1-blue)
 ![License](https://img.shields.io/badge/License-MIT-red)
 
