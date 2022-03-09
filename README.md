@@ -33,7 +33,10 @@
 
 # Repositório Online
 
-Acesse clicando no botão: <a href="https://bate-papo-wpp.herokuapp.com/"> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/> </a>
+Acesse clicando no botão abaixo:   
+<a href="https://bate-papo-wpp.herokuapp.com/"> 
+    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/> 
+</a>
 
 # Screenshots
 
