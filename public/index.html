@@ -1,0 +1,58 @@
+<html>
+    <head>
+
+        <title> Chat - Bate Papo </title>
+
+        <meta charset="utf-8" />
+        
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <link rel="icon" type="image/png" href="./imagens/whatsapp.png" />
+
+        <link rel="stylesheet" href="style.css" />
+
+    </head>
+
+    <body>
+
+        <div class="page" id="loginPage">
+
+            <div class="loginContent">
+
+                <h1 style="margin: 0; color:white"> Seja bem-vindo! </h1> <br> 
+
+                <input class="loginInput" type="text" id="loginNameInput" placeholder="Digite seu nome de usuário" /> 
+
+            </div>
+            
+        </div>
+
+        <div class="page" id="chatPage">
+
+            <div class="chatArea">
+
+                <ul class="chatList"> </ul>
+
+                <ul class="userList">
+          
+                </ul>
+
+            </div>
+
+            <div class="chatInput">
+
+                <input class="Input" type="text" placeholder="Digite sua mensagem..."/>
+
+            </div>
+
+
+        </div>
+
+        <script src="/socket.io/socket.io.js"></script>
+
+        <script src="/main.js"> </script>
+
+
+    </body>
+
+</html>
