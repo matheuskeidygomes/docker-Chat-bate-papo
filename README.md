@@ -56,7 +56,7 @@ Será necessário ter instalado em sua máquina as seguintes ferramentas:
 $ git clone <https://github.com/matheuskeidygomes/docker-Chat-bate-papo.git>
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd Chat-bate-papo
+$ cd docker-Chat-bate-papo
 
 # Execute a aplicação
 $ docker-compose up 
