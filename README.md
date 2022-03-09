@@ -35,6 +35,8 @@
 
 Acesse clicando <a href="https://bate-papo-wpp.herokuapp.com/">aqui</a>.
 
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
 # Screenshots
 
 ![image](https://user-images.githubusercontent.com/74063350/147145299-ccd44e2c-11f9-4765-a470-d1c4fcf95866.png)  
